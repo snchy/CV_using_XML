@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<resume>
+    <header>
+        <name>Abdelrahman Ahmed Monmen</name>
+        <contact>
+            <phone>01014321238</phone>
+            <email>mhmdhsnbr819@gmail.com</email>
+            <github>https://github.com/snchy</github>
+            <address>Nasr city, Cairo</address>
+        </contact>
+    </header>
+
+    <main>
+        <section>
+            <h2>Summary</h2>
+            <p>Motivated third-year Computer Science student at CHI University with a strong academic foundation in programming languages including Java, C++, and Python. Experienced in data structures, SQL databases, Linux environments, and networking fundamentals (CCNA level). Demonstrates a keen interest in software development and a commitment to continuous learning through practical, real-world applications. Seeking an opportunity to apply and further develop technical skills in a professional environment, gain hands-on experience, and contribute effectively to collaborative team projects.</p>
+        </section>
+
+        <section class="skills-section">
+            <h2>Technical Skills</h2>
+            <skills>
+                <category name="Programming Languages">Java, C++, Python, JavaScript</category>
+                <category name="Web Technologies">HTML5, CSS3, Vanilla JS</category>
+                <category name="Databases">SQL</category>
+                <category name="Operating Systems">Linux</category>
+                <category name="Tools">Git, VS Code, penetration testing tools (Linux-based)</category>
+                <category name="Networking">Fundamentals of CCNA</category>
+            </skills>
+        </section>
+
+        <section>
+            <h2>Projects</h2>
+            <project>
+                <title>Product Management System</title>
+                <description>
+                    Developed a web application using HTML, CSS, and JavaScript.
+                    <ul>
+                        <li>Implemented full CRUD functionality (create, read, update, delete) with form validation.</li>
+                        <li>Added automatic price calculation including taxes, ads, and discounts.</li>
+                        <li>Integrated search functionality by product title or category.</li>
+                        <li>Ensured data persistence using localStorage.</li>
+                    </ul>
+                </description>
+            </project>
+        </section>
+
+        <section>
+            <h2>Education</h2>
+            <education>
+                <institution>CHI Institute of Computer Science</institution>
+                <degree>Bachelor's degree in Computer Science</degree>
+            </education>
+        </section>
+
+        <section>
+            <h2>Courses</h2>
+            <courses>
+                <course>Studied fundamentals of networking (CCNA).</course>
+                <course>Completed multiple online courses covering various Computer Science topics.</course>
+                <course>Successfully completed a Python programming course and received a certificate.</course>
+                <course>Gained hands-on experience in penetration testing using Linux-based tools and environments.</course>
+                <course>Studied front-end web development technologies including HTML and CSS.</course>
+            </courses>
+        </section>
+        
+        <section class="side-panel">
+             <div class="column">
+                <h2>Soft Skills</h2>
+                <soft-skills>
+                    <skill>Effective verbal and written communication</skill>
+                    <skill>Team collaboration and leadership</skill>
+                    <skill>Problem-solving and critical thinking</skill>
+                    <skill>Adaptability and eagerness to learn</skill>
+                </soft-skills>
+            </div>
+
+            <div class="column">
+                <h2>Awards</h2>
+                <awards>
+                    <award>Python Programming Certificate (Course completed successfully)</award>
+                </awards>
+            </div>
+
+            <div class="column">
+                <h2>Languages</h2>
+                <languages>
+                    <language proficiency="Native">Arabic</language>
+                    <language proficiency="Professional working proficiency">English</language>
+                </languages>
+            </div>
+            
+            <div class="column">
+                <h2>Interests</h2>
+                <interests>
+                    <interest>Cybersecurity and ethical hacking</interest>
+                    <interest>Software development and web technologies</interest>
+                    <interest>Continuous learning and tech innovations</interest>
+                </interests>
+            </div>
+        </section>
+    </main>
+</resume>
