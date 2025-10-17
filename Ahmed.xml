@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<resume>
+    <header>
+        <name>Ahmed Moamen Ibrahim</name>
+        <contact>
+            <phone home="24194324" mobile="01111671978"/>
+            <email>moimenahmed@gmail.com</email>
+            <address>34 Asmaa Fahmy Street Nasr City, Cairo, Egypt</address>
+        </contact>
+    </header>
+
+    <main>
+        <section>
+            <h2>Qualifications</h2>
+            <education>
+                <institution>Ain Shams University</institution>
+                <degree>Bachelor degree of science</degree>
+                <graduation>May 1999</graduation>
+                <grade>Fair</grade>
+            </education>
+        </section>
+
+        <section class="skills-section">
+            <h2>Skills</h2>
+            <skills>
+                <category name="Software">Proficient in Ms. Office (Word, Excel, Visio, PowerPoint), AUTOCAD, MINITAB 15</category>
+                <category name="General">Familiar with large scale industrial plants, Self-motivated, Ability to learn new technologies</category>
+                <category name="Soft Skills">Courteous and co-operative, High communication skills, Ability to work under pressure, Team work (leader or member)</category>
+            </skills>
+        </section>
+
+        <section>
+            <h2>Training Courses</h2>
+            <courses>
+                <course>Six Sigma and lean manufacturing Green Belt.</course>
+                <course>ISO 9001-2015, 45001,14001, 17020,17025 and IATF by SGS training center.</course>
+                <course>ISO 500001-2015 awareness by WHS training center.</course>
+                <course>Certified Manager.</course>
+                <course>Internal auditor for ISOs 45001,14001,50001, 17025, 17020 and ISO TS 16949(IATF)</course>
+                <course>Personnel management.</course>
+                <course>Receiving inspection &amp; product audit.</course>
+                <course>Q control plan.</course>
+                <course>Complaint management.</course>
+                <course>Problem solving tools.</course>
+                <course>Potential failure mode and effects analysis (PFMEA).</course>
+            </courses>
+        </section>
+
+        <section>
+            <h2>Employment History</h2>
+            <employment>
+                <entry>
+                    <company>WHS stationery group (Nasr City)</company>
+                    <position>TQM Manager</position>
+                    <period>July 2009 - 2020</period>
+                    <description>WHS is one of the international companies in Automotive industry which depending on plastic injection, it was established 2007. It produces all stationery needs. It's ranked now from the top two companies in the field of Automotive industry in Egypt.</description>
+                    <h3>Responsibilities</h3>
+                    <ul>
+                        <li>Establishing new procedures for all departments.</li>
+                        <li>Driving improvements through training and presentations to company staff on quality issues.</li>
+                        <li>Intermediate and Final Inspection (Direct Verification Measurement).</li>
+                        <li>Control of Non-Conforming Product.</li>
+                        <li>Training production and quality staff for investigate quality related issues occurring both internally and externally.</li>
+                        <li>Perform Internal Quality Audits and prepare staff to implement it.</li>
+                        <li>Generate PFMEA, Control plan, control Charts, and Inspection plans.</li>
+                        <li>Generate ISO 9001, ISO 14001 and ISO 45001 procedures.</li>
+                        <li>Implement Lean Manufacturing Tools for process improvement.</li>
+                    </ul>
+                    <h3>Achievements</h3>
+                    <ul>
+                        <li>ISO 9001, 45001, 14001, 17025, 17020 Certification.</li>
+                        <li>Establish TQM system by making integration between all departments.</li>
+                        <li>Establishing on job training system by using Qualification Matrix.</li>
+                    </ul>
+                </entry>
+                <entry>
+                    <company>Delta for plastic Industries (Badr City)</company>
+                    <position>Q Manager</position>
+                    <period>August 2021 - Present</period>
+                    <description>Delta is one of the leads companies in plastics injection, blowing and assembled batteries, it was established 2000. It produces batteries currently based on ISO9001, 45001 and 14001.</description>
+                    <h3>Responsibilities</h3>
+                    <ul>
+                        <li>Establishing new procedures for all departments.</li>
+                        <li>Driving improvements through training and presentations to company staff on quality issues.</li>
+                        <li>Intermediate and Final Inspection (Direct Verification Measurement).</li>
+                        <li>Control of Non-Conforming Product.</li>
+                        <li>Training staff to investigate quality related issues and implementing corrective actions (8Ds.).</li>
+                        <li>Perform Internal Quality Audits.</li>
+                        <li>Generate PFMEA, Control plan, control Charts, and Inspection plans.</li>
+                    </ul>
+                    <h3>Achievements</h3>
+                    <ul>
+                        <li>ISO 9001, 14001, 45001 Certification.</li>
+                        <li>Establish TQM system by making integration between all departments.</li>
+                        <li>Establishing on job training system by using Qualification Matrix.</li>
+                        <li>Transform the rank of our Company to deal with international company (Samsung, LG).</li>
+                    </ul>
+                </entry>
+            </employment>
+        </section>
+        
+        <section class="side-panel">
+            <div class="column">
+                <h2>Languages</h2>
+                <languages>
+                    <language proficiency="Mother tongue">Arabic</language>
+                    <language proficiency="Excellent">English</language>
+                    <language proficiency="Intermediate">Turkish</language>
+                </languages>
+            </div>
+        </section>
+    </main>
+</resume>

@@ -1,0 +1,94 @@
+{
+  "resume": {
+    "header": {
+      "name": "Abdelrahman Ahmed Monmen",
+      "contact": {
+        "phone": "01014321238",
+        "email": "mhmdhsnbr819@gmail.com",
+        "github": "https://github.com/snchy",
+        "address": "Nasr city, Cairo"
+      }
+    },
+    "main": {
+      "sections": [
+        {
+          "type": "Summary",
+          "content": "Motivated third-year Computer Science student at CHI University with a strong academic foundation in programming languages including Java, C++, and Python. Experienced in data structures, SQL databases, Linux environments, and networking fundamentals (CCNA level). Demonstrates a keen interest in software development and a commitment to continuous learning through practical, real-world applications. Seeking an opportunity to apply and further develop technical skills in a professional environment, gain hands-on experience, and contribute effectively to collaborative team projects."
+        },
+        {
+          "type": "Technical Skills",
+          "skills": [
+            { "category": "Programming Languages", "items": "Java, C++, Python, JavaScript" },
+            { "category": "Web Technologies", "items": "HTML5, CSS3, Vanilla JS" },
+            { "category": "Databases", "items": "SQL" },
+            { "category": "Operating Systems", "items": "Linux" },
+            { "category": "Tools", "items": "Git, VS Code, penetration testing tools (Linux-based)" },
+            { "category": "Networking", "items": "Fundamentals of CCNA" }
+          ]
+        },
+        {
+          "type": "Projects",
+          "projects": [
+            {
+              "title": "Product Management System",
+              "description": "Developed a web application using HTML, CSS, and JavaScript.",
+              "details": [
+                "Implemented full CRUD functionality (create, read, update, delete) with form validation.",
+                "Added automatic price calculation including taxes, ads, and discounts.",
+                "Integrated search functionality by product title or category.",
+                "Ensured data persistence using localStorage."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Education",
+          "education": {
+            "institution": "CHI Institute of Computer Science",
+            "degree": "Bachelor's degree in Computer Science"
+          }
+        },
+        {
+          "type": "Courses",
+          "courses": [
+            "Studied fundamentals of networking (CCNA).",
+            "Completed multiple online courses covering various Computer Science topics.",
+            "Successfully completed a Python programming course and received a certificate.",
+            "Gained hands-on experience in penetration testing using Linux-based tools and environments.",
+            "Studied front-end web development technologies including HTML and CSS."
+          ]
+        },
+        {
+          "type": "Soft Skills",
+          "skills": [
+            "Effective verbal and written communication",
+            "Team collaboration and leadership",
+            "Problem-solving and critical thinking",
+            "Adaptability and eagerness to learn"
+          ]
+        },
+        {
+          "type": "Awards",
+          "awards": [
+            "Python Programming Certificate (Course completed successfully)"
+          ]
+        },
+        {
+          "type": "Languages",
+          "languages": [
+            { "language": "Arabic", "proficiency": "Native" },
+            { "language": "English", "proficiency": "Professional working proficiency" }
+          ]
+        },
+        {
+          "type": "Interests",
+          "interests": [
+            "Cybersecurity and ethical hacking",
+            "Software development and web technologies",
+            "Continuous learning and tech innovations"
+          ]
+        }
+      ]
+    }
+  }
+}
